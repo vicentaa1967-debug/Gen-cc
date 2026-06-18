@@ -1,3 +1,3 @@
 ## generador CC 
 
-este un proyecto para el curso de python de friends school, para familiarizarce con los de repositorios de github. 
+este un proyecto para el curso de python de friends school Cristhofer PREMIUN, para familiarizarce con los de repositorios de github. 
